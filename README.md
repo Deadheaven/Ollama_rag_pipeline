@@ -30,7 +30,7 @@ Built using **LangChain**, **FAISS**, and **Ollama** with open-source models lik
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/rag-ollama-faiss.git
+git clone https://github.com/<Deadheaven>/Ollama_rag_pipeline.git
 cd rag-ollama-faiss
 
 # 2️⃣ Create virtual environment
