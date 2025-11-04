@@ -30,7 +30,7 @@ Built using **LangChain**, **FAISS**, and **Ollama** with open-source models lik
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/<Deadheaven>/Ollama_rag_pipeline.git
+git clone https://github.com/Deadheaven/Ollama_rag_pipeline.git
 cd rag-ollama-faiss
 
 # 2️⃣ Create virtual environment
@@ -45,3 +45,5 @@ ollama serve
 
 # 5️⃣ Run the script
 python rag_local_faiss.py
+or
+python agent_local.py
