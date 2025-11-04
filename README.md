@@ -1,4 +1,4 @@
-# 🧩 Local RAG Pipeline with Ollama + FAISS
+# 🧩 Local RAG Pipeline with Ollama + FAISS and Agentic AI
 
 A lightweight **Retrieval-Augmented Generation (RAG)** pipeline that runs **entirely locally** — no cloud APIs required.  
 Built using **LangChain**, **FAISS**, and **Ollama** with open-source models like Qwen and Nomic.
