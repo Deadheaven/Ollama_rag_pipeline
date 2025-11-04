@@ -44,6 +44,6 @@ pip install -r requirements.txt
 ollama serve
 
 # 5️⃣ Run the script
-python rag_local_faiss.py
+python3 rag_local_faiss.py
 or
-python agent_local.py
+python3 agent_local.py
